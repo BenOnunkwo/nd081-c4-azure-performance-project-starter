@@ -167,7 +167,7 @@ The script above will take a few minutes to create VMSS and related resources. O
       # Clone locally
       git clone https://github.com/<GITHUB_USERNAME>/nd081-c4-azure-performance-project-starter.git
       cd nd081-c4-azure-performance-project-starter
-      # Make sure, you aer in the master branch
+      # Make sure, you are in the master branch
       git checkout Deploy_to_VMSS
       # Update sudo
       # Install Python 3.7
